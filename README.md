@@ -17,8 +17,6 @@ Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Include if you have one, e.g., Node.js, Flask, etc.)
-
 Other Tools: Any additional tools or libraries used (e.g., Bootstrap, jQuery)
 
 
