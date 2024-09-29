@@ -24,13 +24,13 @@ Other Tools: Any additional tools or libraries used (e.g., Bootstrap, jQuery)
 
 How to Run
 
-1. Clone the repository: git clone https://github.com/Alok2709-dev/animal-allies-project-2.git
+1. Clone the repository: git clone [[https://github.com/Alok2709-dev/animal-allies-project-2.git
+](https://github.com/Alok2709-dev/Animal-allies-2/tree/main/animal-allies-project-
+](https://github.com/Alok2709-dev/Animal-allies-2/tree/main/animal-allies-project-2)
+3. Open index.html in a browser to view the homepage.
 
 
-2. Open index.html in a browser to view the homepage.
-
-
-3. (Optional) Set up the backend if applicable.
+4. (Optional) Set up the backend if applicable.
 
 
 
