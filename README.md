@@ -28,3 +28,16 @@ Alok Shukla
 ⚡  Currently improving DSA & development
 🚀  Goal: Build things that actually matter
 📍  India
+```
+
+---
+
+<div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/Alok2709-dev/Alok2709-dev/gh-pages/github-contribution-grid-snake-dark.svg" alt="Alok's Contribution Snake" width="100%" />
+
+</div>
+
+---
