@@ -81,7 +81,9 @@ Alok Shukla
 ## ⚡ GITHUB STATS
 
 <img src="https://github-readme-stats.shion.dev/api?username=Alok2709-dev&show_icons=true&theme=tokyonight" />
+<br><br>
 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Alok2709-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
