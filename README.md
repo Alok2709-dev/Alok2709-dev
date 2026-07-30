@@ -124,3 +124,27 @@ Alok Shukla
 > Breaking things.
 > Learning.
 > Repeating.
+---
+```
+
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://github.com/Alok2709-dev">
+<img src="https://img.shields.io/badge/GitHub-Alok2709--dev-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alok-shukla-ba6abb319/">
+<img src="https://img.shields.io/badge/LinkedIn-Alok%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Alok2709-dev&label=PROFILE%20VIEWS&color=00F7FF&style=flat-square">
+
+<br><br>
+
+⚡ **Code • Create • Learn • Repeat**
+
+</div>
