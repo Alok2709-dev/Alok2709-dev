@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./alok-banner.png" width="100%" alt="Alok Shukla - AI ML Developer Banner" />
 
 </div>
@@ -36,7 +35,33 @@ Alok Shukla
 ⚡  Currently improving DSA & development
 🚀  Goal: Build things that actually matter
 📍  India
+
 ```
+
+---
+---
+
+<div align="center">
+
+## ⚡ TECH ARSENAL
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&theme=dark" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,figma&theme=dark" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,mongodb,docker&theme=dark" />
+
+<br>
+
+`AI/ML` • `DSA` • `Full Stack Development` • `Open Source`
+
+</div>
 
 ---
 
