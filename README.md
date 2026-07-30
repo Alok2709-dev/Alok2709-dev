@@ -1,25 +1,30 @@
 <div align="center">
 
-# 👾 Hey, I'm Alok Shukla
+# ⚡ A L O K &nbsp; S H U K L A ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+%F0%9F%A4%96;Developer+%7C+Builder+%7C+Tech+Explorer+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1;Learning.+Building.+Breaking.+Repeating.+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Alok.exe...;%3E+B.Tech+CSE+%7C+AI+%26+ML+%F0%9F%A4%96;%3E+Developer+%7C+Builder+%7C+Tech+Explorer;%3E+Turning+Ideas+Into+Reality+%E2%9A%A1;%3E+Eat.+Sleep.+Code.+Repeat.+%F0%9F%92%BB" />
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Alok2709-dev&label=PROFILE+VIEWS&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Alok2709-dev&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Alok2709-dev?label=FOLLOWERS&style=for-the-badge&color=00c8ff" />
 
 </div>
 
 ---
+<div align="center">
 
-## ⚡ `whoami`
+## 👨‍💻 ABOUT ME
 
-```bash
-┌──(alok㉿github)-[~/about-me]
-└─$ whoami
+</div>
 
-> Name       : Alok Shukla
-> Role       : B.Tech CSE Student
-> Focus      : Artificial Intelligence & Machine Learning
-> Status     : Building. Learning. Improving.
-> Location   : India 🇮🇳
+```yaml
+Alok Shukla
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓  B.Tech CSE — AI & Machine Learning
+🧠  Exploring Artificial Intelligence
+💻  Building projects & learning by doing
+⚡  Currently improving DSA & development
+🚀  Goal: Build things that actually matter
+📍  India
