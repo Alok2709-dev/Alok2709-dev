@@ -64,12 +64,23 @@ Alok Shukla
 </div>
 
 ---
+<div align="center">
+
 
 <div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/Alok2709-dev/Alok2709-dev/gh-pages/github-contribution-grid-snake-dark.svg" alt="Alok's Contribution Snake" width="100%" />
+
+</div>
+
+---
+<div align="center">
+
+## ⚡ GITHUB STATS
+
+<img src="https://github-readme-stats.shion.dev/api?username=Alok2709-dev&show_icons=true&theme=tokyonight" />
 
 </div>
 
