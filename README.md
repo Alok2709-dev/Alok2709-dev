@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./alok-banner.png" width="100%" alt="Alok Shukla - AI ML Developer Banner" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 # ⚡ A L O K &nbsp; S H U K L A ⚡
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Alok.exe...;%3E+B.Tech+CSE+%7C+AI+%26+ML+%F0%9F%A4%96;%3E+Developer+%7C+Builder+%7C+Tech+Explorer;%3E+Turning+Ideas+Into+Reality+%E2%9A%A1;%3E+Eat.+Sleep.+Code.+Repeat.+%F0%9F%92%BB" />
