@@ -102,14 +102,24 @@ Alok Shukla
 
 </div>
 
-### 🐾 Animal Allies
-> **A platform built to support animal welfare & connect people who want to help.**
+<div align="center">
 
-`HTML` • `CSS` • `JavaScript` • `Node.js`
+## 🚀 FEATURED PROJECTS
 
-🔹 Built with a focus on real-world impact  
-🔹 Interactive and responsive interface  
-🔹 One of my early full-stack development projects  
+<a href="https://github.com/Alok2709-dev/Animal-allies-2">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Alok2709-dev&repo=Animal-allies-2&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+### 🐾 ANIMAL ALLIES
+**Animal welfare • Building technology for real-world impact**
+
+<a href="https://github.com/Alok2709-dev/Animal-allies-2">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
