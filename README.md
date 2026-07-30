@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alok2709-dev/Alok2709-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Hey, I'm Alok Shukla
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%7C+AI+%26+ML+%F0%9F%A4%96;Developer+%7C+Builder+%7C+Tech+Explorer+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1;Learning.+Building.+Breaking.+Repeating.+%F0%9F%92%BB" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Alok2709-dev&label=PROFILE+VIEWS&style=for-the-badge" />
+
+</div>
+
+---
+
+## ⚡ `whoami`
+
+```bash
+┌──(alok㉿github)-[~/about-me]
+└─$ whoami
+
+> Name       : Alok Shukla
+> Role       : B.Tech CSE Student
+> Focus      : Artificial Intelligence & Machine Learning
+> Status     : Building. Learning. Improving.
+> Location   : India 🇮🇳
