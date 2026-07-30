@@ -87,3 +87,12 @@ Alok Shukla
 </div>
 
 ---
+<div align="center">
+
+## 📈 ACTIVITY MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok2709-dev&bg_color=0D1117&color=00F7FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
