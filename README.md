@@ -96,3 +96,31 @@ Alok Shukla
 </div>
 
 ---
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+### 🐾 Animal Allies
+> **A platform built to support animal welfare & connect people who want to help.**
+
+`HTML` • `CSS` • `JavaScript` • `Node.js`
+
+🔹 Built with a focus on real-world impact  
+🔹 Interactive and responsive interface  
+🔹 One of my early full-stack development projects  
+
+---
+
+### 💙 More Projects Loading...
+
+```text
+[ SYSTEM ] Scanning repositories...
+[ ███████████████░░░░░ ] 75%
+
+> Building.
+> Experimenting.
+> Breaking things.
+> Learning.
+> Repeating.
